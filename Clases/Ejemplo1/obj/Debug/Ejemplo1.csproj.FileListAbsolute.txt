@@ -1,0 +1,6 @@
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\CBN\DiagramasPoo\Clases\Ejemplo1\obj\Debug\Ejemplo1.pdb

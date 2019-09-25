@@ -18,5 +18,6 @@ namespace Ejemplo1
 		//Creamos los atributos
 		public int documento;
 		public string nombres, apellidos;
+		protected string nacionalidad;
 	}
 }

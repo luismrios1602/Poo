@@ -1,8 +1,8 @@
 ﻿/*
  * Creado por SharpDevelop.
  * Usuario: CBN
- * Fecha: 24/09/2019
- * Hora: 6H45
+ * Fecha: 25/09/2019
+ * Hora: 07:30 a.m.
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
@@ -11,18 +11,13 @@ using System;
 namespace Ejemplo1
 {
 	/// <summary>
-	/// Esta clase heredará de Persona.
+	/// Description of Usuarios.
 	/// </summary>
-	public class Estudiantes:Persona
+	public class Usuarios
 	{
-		public string carrera;
-		public int semestre;
-		public double promedio;
-		public Estudiantes(){
-			nacionalidad="Colombiana";
+		public string password;
+		public Usuarios()
+		{
 		}
 	}
-	
-	
-	
 }

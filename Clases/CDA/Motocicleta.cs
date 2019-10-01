@@ -1,22 +1,22 @@
 ﻿/*
  * Creado por SharpDevelop.
  * Usuario: CBN
- * Fecha: 24/09/2019
- * Hora: 6H31
+ * Fecha: 01/10/2019
+ * Hora: 6H52
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
 using System;
 
-namespace Ejemplo1
+namespace CDA
 {
 	/// <summary>
-	/// Esta clase nos servirá de apoyo para el aprendizaje.
+	/// Description of Motocicleta.
 	/// </summary>
-	public class Persona
+	public class Motocicleta:Vehiculo
 	{
-		//Creamos los atributos
-		public int documento;
-		public string nombres, apellidos;
+		public string tipoFreno;
+		public int cilindraje;
+		public bool tieneRetrovisor;
 	}
 }

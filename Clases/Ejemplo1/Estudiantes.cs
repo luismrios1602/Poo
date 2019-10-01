@@ -13,16 +13,10 @@ namespace Ejemplo1
 	/// <summary>
 	/// Esta clase heredará de Persona.
 	/// </summary>
-	public class Estudiantes:Persona
+	public class Estudiantes
 	{
 		public string carrera;
 		public int semestre;
 		public double promedio;
-		public Estudiantes(){
-			nacionalidad="Colombiana";
-		}
 	}
-	
-	
-	
 }

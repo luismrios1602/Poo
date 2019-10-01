@@ -1,0 +1,6 @@
+C:\Users\CBN\DiagramasPoo\Clases\CDA\bin\Debug\CDA.exe.config
+C:\Users\CBN\DiagramasPoo\Clases\CDA\bin\Debug\CDA.exe
+C:\Users\CBN\DiagramasPoo\Clases\CDA\bin\Debug\CDA.pdb
+C:\Users\CBN\DiagramasPoo\Clases\CDA\obj\Debug\CDA.csprojResolveAssemblyReference.cache
+C:\Users\CBN\DiagramasPoo\Clases\CDA\obj\Debug\CDA.exe
+C:\Users\CBN\DiagramasPoo\Clases\CDA\obj\Debug\CDA.pdb

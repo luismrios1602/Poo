@@ -1,22 +1,21 @@
 ﻿/*
  * Creado por SharpDevelop.
  * Usuario: CBN
- * Fecha: 24/09/2019
- * Hora: 6H31
+ * Fecha: 01/10/2019
+ * Hora: 6H47
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
 using System;
 
-namespace Ejemplo1
+namespace CDA
 {
 	/// <summary>
-	/// Esta clase nos servirá de apoyo para el aprendizaje.
+	/// Description of Vehiculo.
 	/// </summary>
-	public class Persona
+	public class Vehiculo
 	{
-		//Creamos los atributos
-		public int documento;
-		public string nombres, apellidos;
+		public string placa, marca, color, fechaIngreso;
+		public int kilometraje, modelo;
 	}
 }

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacion", "Agregacion\Agregacion.csproj", "{28A52E98-4418-47B4-94AF-2095247A928D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asociacion", "Asociacion\Asociacion.csproj", "{DE108C85-13F7-423E-B81F-1E814533492C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependencia", "Dependencia\Dependencia.csproj", "{0C1F828D-072A-44E0-AF90-C2C328C312F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A52E98-4418-47B4-94AF-2095247A928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A52E98-4418-47B4-94AF-2095247A928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A52E98-4418-47B4-94AF-2095247A928D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A52E98-4418-47B4-94AF-2095247A928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE108C85-13F7-423E-B81F-1E814533492C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE108C85-13F7-423E-B81F-1E814533492C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE108C85-13F7-423E-B81F-1E814533492C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE108C85-13F7-423E-B81F-1E814533492C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1F828D-072A-44E0-AF90-C2C328C312F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1F828D-072A-44E0-AF90-C2C328C312F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1F828D-072A-44E0-AF90-C2C328C312F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1F828D-072A-44E0-AF90-C2C328C312F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

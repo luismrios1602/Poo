@@ -1,0 +1,5 @@
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Asociacion\obj\Debug\Asociacion.csprojResolveAssemblyReference.cache
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Asociacion\bin\Debug\Asociacion.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Asociacion\bin\Debug\Asociacion.pdb
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Asociacion\obj\Debug\Asociacion.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Asociacion\obj\Debug\Asociacion.pdb

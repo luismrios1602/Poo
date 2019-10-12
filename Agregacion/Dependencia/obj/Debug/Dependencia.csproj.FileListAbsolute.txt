@@ -1,0 +1,5 @@
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Dependencia\bin\Debug\Dependencia.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Dependencia\bin\Debug\Dependencia.pdb
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Dependencia\obj\Debug\Dependencia.csprojResolveAssemblyReference.cache
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Dependencia\obj\Debug\Dependencia.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\Agregacion\Dependencia\obj\Debug\Dependencia.pdb

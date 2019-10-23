@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\bin\Debug\VectoresConFunciones.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\bin\Debug\VectoresConFunciones.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.pdb

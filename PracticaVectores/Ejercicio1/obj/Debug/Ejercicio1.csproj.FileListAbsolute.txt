@@ -3,3 +3,8 @@ C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\Ejercicio1\bin\
 C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\Ejercicio1\bin\Debug\Ejercicio1.pdb
 C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\Ejercicio1\obj\Debug\Ejercicio1.pdb
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\Ejercicio1\bin\Debug\Ejercicio1.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\Ejercicio1\bin\Debug\Ejercicio1.pdb
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\Ejercicio1\obj\Debug\Ejercicio1.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\Ejercicio1\obj\Debug\Ejercicio1.pdb

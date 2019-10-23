@@ -3,3 +3,8 @@ C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunc
 C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\bin\Debug\VectoresConFunciones.pdb
 C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.exe
 C:\Users\Lenovo\Documents\SharpDevelop Projects\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.pdb
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.csprojResolveAssemblyReference.cache
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\VectoresConFunciones\bin\Debug\VectoresConFunciones.exe
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\VectoresConFunciones\bin\Debug\VectoresConFunciones.pdb
+F:\Documentos\CBN\Semestre_II\POO\PruebasPOO\PracticaVectores\VectoresConFunciones\obj\Debug\VectoresConFunciones.pdb

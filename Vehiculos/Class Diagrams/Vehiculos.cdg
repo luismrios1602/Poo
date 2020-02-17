@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Vehiculos">
+  <ClassDiagramComponents>
+    <Class name="Vehiculo" package="" visibility="public" xPosition="415.0" yPosition="116.0">
+      <Fields>
+        <Field name="placa" type="String" visibility="protected"/>
+        <Field name="marca" type="String" visibility="protected"/>
+        <Field name="kilometraje" type="double" visibility="protected"/>
+        <Field name="color" type="String" visibility="protected"/>
+        <Field name="puertas" type="int" visibility="protected"/>
+        <Field name="llantas" type="int" visibility="protected"/>
+        <Field name="motor" type="int" visibility="protected"/>
+        <Field name="modelo" type="int" visibility="protected"/>
+        <Field name="cantPasajeros" type="int" visibility="protected"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Vehiculo" returnType="void" visibility="public"/>
+        <Method name="getInfo" returnType="String" visibility="public"/>
+        <Method name="actKilometraje" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Carro" package="" visibility="public" xPosition="415.0" yPosition="484.0">
+      <Fields>
+        <Field name="tipoCarro" type="String" visibility="private"/>
+        <Field name="tipoTransmision" type="String" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Carro" returnType="void" visibility="public"/>
+        <Method name="getInfoCarro" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Moto" package="" visibility="public" xPosition="140.0" yPosition="484.0">
+      <Fields>
+        <Field name="tipoMoto" type="String" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Moto" returnType="void" visibility="public"/>
+        <Method name="getInfoMoto" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Camioneta" package="" visibility="public" xPosition="689.0" yPosition="484.0">
+      <Fields>
+        <Field name="plafon" type="boolean" visibility="private"/>
+        <Field name="carga" type="double" visibility="private"/>
+        <Field name="trenDeTransmision" type="String" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Camioneta" returnType="void" visibility="public"/>
+        <Method name="getInfoCamioneta" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="Moto" target="Vehiculo"/>
+    <IsRelation name="is" source="Carro" target="Vehiculo"/>
+    <IsRelation name="is" source="Camioneta" target="Vehiculo"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

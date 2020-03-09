@@ -21,8 +21,7 @@ public class Docente extends Personal{
         
     }
     
-    
-    
+       
     public void setAsignatura(String asignatura){
         
         this.asginatura = asignatura;

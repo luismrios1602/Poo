@@ -15,7 +15,8 @@ public class Personal {
     protected String Apellidos;
     protected String Nombres;
     protected int edad;
-    protected boolean activo;
+    protected boolean activo = true;
+    protected String textoActivo = "Inactivo";
     
 
     public Personal(String tipoDocumento, String documento, String Apellidos, String Nombres, int edad, boolean activo){
@@ -26,16 +27,21 @@ public class Personal {
         this.Nombres = Nombres;
         this.edad = edad;
         this.activo = activo;
+        
     
     }
     
     public String mostrarInfo(){
+       
+        if (activo) {
+            this.textoActivo = "Activo";
+        }
         return ("Tipo de documento: "+this.tipoDocumento
                 +"\nDocumento: "+this.documento
                 +"\nApellidos: "+this.Apellidos
-                +"\nNombres"+this.Nombres
+                +"\nNombres: "+this.Nombres
                 +"\nEdad: "+this.edad
-                +"\nActivo: "+this.activo);
+                +"\nEstado: "+this.textoActivo);
         
     }
     

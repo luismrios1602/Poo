@@ -23,7 +23,10 @@ public class Catedratico extends Docente{
 
     
     public String mostrar(){
-        return mostrarInfo()+("\nFecha Inicio: "+this.fechaInicio
+                
+        return mostrarInfo()+("\nProfesión: "+this.profesion
+                            +"\nAsignatura: "+this.asginatura
+                            +"\nFecha Inicio: "+this.fechaInicio
                             +"Fecha Fin: "+this.fechaFin);
         
     }

@@ -16,8 +16,11 @@ public class Institucion {
      */
     public static void main(String[] args) {
         Alumnos alum=new Alumnos("CC", "1148701554", "RIOS PEREZ", "LUIS MIGUEL", 24, true, "2019A1214", "TIC", "DSAM", 3);
+        Planta docPlan = new Planta("CC", "57424125", "ROSALES", "MARTIN", 57, true, "Ingeniero", "POO II", "2020/01/02", 3);
         
         System.out.println(alum.mostrar());
+        System.out.println("");
+        System.out.println(docPlan.mostrar());
     }
     
 }

@@ -24,7 +24,9 @@ public class Planta extends Docente{
     
     
     public String mostrar(){
-        return mostrarInfo()+("\nFecha Contrato: "+this.fechaContrato
+        return mostrarInfo()+("\nProfesión: "+this.profesion
+                            +"\nAsignatura: "+this.asginatura
+                            +"\nFecha Contrato: "+this.fechaContrato
                             +"\nCantidad de Proyectos: "+this.cantProyectos);
     }
     
